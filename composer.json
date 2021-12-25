@@ -1,5 +1,5 @@
 {
-    "name": "zendframework/zend-hydrator",
+    "name": "xiaohuilam/zend-hydrator",
     "description": "Serialize objects to arrays, and vice versa",
     "license": "BSD-3-Clause",
     "keywords": [
@@ -16,8 +16,8 @@
         "forum": "https://discourse.zendframework.com/c/questions/components"
     },
     "require": {
-        "php": "^7.2",
-        "zendframework/zend-stdlib": "^3.2.1"
+        "php": ">=7.2",
+        "xiaohuilam/zend-stdlib": "^3.2.1"
     },
     "require-dev": {
         "phpspec/prophecy": "^1.7.5",
